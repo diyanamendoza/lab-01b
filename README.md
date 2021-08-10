@@ -15,7 +15,7 @@
 ### Sample H3
 
 _Chocolate Cake Things_
-![](./images/cake.png)
+<img align="left" src="./images/cake.png">
 
 [Dairy-free chocolate cake recipe](https://tasty.co/recipe/fudgiest-dairy-free-chocolate-cake)
 
